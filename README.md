@@ -28,6 +28,4 @@ You can also build and run this locally using docker
 docker build -t flask-helloworld .
 docker run -p 8080:8080 flask-helloworld
 ```
-the application is then accessible at http://127.0.0.1:8080/
-
-
+the application is then accessible at http://127.0.0.1:8989/
